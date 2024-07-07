@@ -23,5 +23,7 @@ This project will contribute to GoodThought’s mission by using data to drive b
 
 You can view the project workbook at [DataCamp](https://www.datacamp.com/datalab/w/00153c8c-aceb-47b4-a819-c9f6e101a7ff/edit).
 
+Project updates can be viewed at [Github](https://github.com/users/sanakhalid898/projects/3/views/1)
+
 
 
